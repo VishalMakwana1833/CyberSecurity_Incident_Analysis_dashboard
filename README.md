@@ -13,7 +13,7 @@ To develop an interactive Power BI dashboard that analyzes cybersecurity inciden
 - Most Common Attack Type
 - Most Common Defense Mechanism
 - Year with Highest Financial Loss
-- Dashboard Interaction<a href="https://github.com/VishalMakwana1833/CyberSecurity_Incident_Analysis_dashboard/blob/main/CyberSecurity_dashboard.jpg">View Dashboard</a>
+- Dashboard Interaction<a href="https://github.com/VishalMakwana1833/CyberSecurity_Incident_Analysis_dashboard/blob/main/Cybersecurity%20Dashboard.jpg">View Dashboard</a>
 
 ##Process
 - Cleaned and preprocessed the dataset using Python (Pandas) handled missing values, standardized column names, converted data types, and removed duplicates.
@@ -21,7 +21,8 @@ To develop an interactive Power BI dashboard that analyzes cybersecurity inciden
 - Designed a dynamic dashboard using cards, bar charts, treemaps, and slicers to visualize attack trends, sources, impacted industries, and resolution timelines.
 
 ##Dashboard
-![CyberSecurity_dashboard](https://github.com/user-attachments/assets/30c84d41-1ef3-408d-a31d-f02f64d91bc4)
+![Cybersecurity Dashboard](https://github.com/user-attachments/assets/090e3129-4943-4600-9c95-8d24ee91db00)
+
 
 ##Project Insights
 - Phishing and Malware were the most common attack types, contributing to over 60% of recorded cybersecurity incidents.
